@@ -10,10 +10,3 @@ A classic word-guessing game where the player tries to figure out a secret word 
 *   **Control Flow:** Implementing `if/elif/else` logic to handle correct/incorrect guesses and duplicate inputs.
 *   **ASCII Art:** Integrating multi-line strings to provide visual game states.
 
-### 🚀 How to Run
-1. Run the script: 
-   ```bash
-   python hangman.py
-   ```
-2. Guess one letter at a time when prompted.
-3. Try to complete the word before the **6 lives** are gone!
