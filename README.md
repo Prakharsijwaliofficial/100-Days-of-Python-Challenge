@@ -27,16 +27,4 @@ The goal is to build a strong foundation in programming through consistency, pra
 
 ---
 
-## 📂 Progress
 
-| Day | Project / Topic | Status |
-|-----|----------------|--------|
-| Day 1 | (Add topic) | ✅ |
-| Day 2 | (Add topic) | ✅ |
-| Day 3 | (Add topic) | ✅ |
-| Day 4 | (Add topic) | ✅ |
-| Day 5 | Password Generator | ✅ |
-
----
-
-## 📁 Folder Structure
