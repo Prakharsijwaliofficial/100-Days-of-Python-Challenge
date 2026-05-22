@@ -1,38 +1,40 @@
 # 💯 100 Days of Python Challenge
 
-Welcome to my personal workspace for Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp**. This repository serves as a timeline tracker documenting my progression from fundamental syntax to building complex, real-world application systems.
+Welcome to my personal progress tracker for Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp**. This repository documents my daily journey from writing foundational scripts to building complex, production-ready applications.
 
 ---
 
 ## 🚀 Repository Goals
-*   Build deep discipline through consistent daily coding routines.
-*   Strengthen object-oriented programming (OOP) and structural design skills.
-*   Develop real-world, standalone automation tools and games.
-*   Establish a strong baseline architecture for advanced fields like ML & AI.
+*   Build deep coding discipline through daily commitment.
+*   Master Object-Oriented Programming (OOP) and structural software design.
+*   Develop real-world automation tools, games, and web applications.
+*   Establish a clean baseline architecture for scalable software engineering.
 
 ---
 
-## 🧠 What I'm Learning
-*   **Core Fundamentals**: Scripting execution control, structures, dynamic loops, and standard functions.
-*   **Logic Architecture**: Intermediate troubleshooting, state machines, and mathematical calculations.
-*   **Object-Oriented Programming (OOP)**: Building modular modules, encapsulating data, and subclassing attributes.
-*   **Production Readiness**: Documenting projects cleanly, modular directory workflows, and package structuring.
+## 🧠 Core Competencies Covered
+*   **Beginner (Days 1–14)**: Scripting execution control, data structures, loops, and functional programming foundations.
+*   **Intermediate (Days 15–57)**: Local environments, Object-Oriented Programming (OOP), GUI development, and APIs.
+*   **Advanced (Days 58–100)**: Web scraping, data analysis, automation frameworks, and web development.
 
 ---
 
 ## 📂 Project Roadmap
 
-### 📦 Beginner Projects (Days 1–14)
-*   *Coming soon / Logged in individual tracking branches.*
+Each folder in this repository contains the source code, logic flow, and execution scripts for that specific day's challenge.
 
-### 📦 Intermediate Projects (Days 15–57)
-*   📂 **[Day 16: OOP Coffee Machine](./Intermediate-Projects/Day%2016)**
-    *   An object-oriented simulation of a automated vending machine breakdown.
-    *   Demonstrates distinct class separation between drink definitions, machine resources, and transaction calculations.
+### 🏁 Beginner Track (Completed)
+*   `Day-01` through `Day-14` 
+*   *Focus: Core fundamentals, algorithmic logic, and functional scripting structures.*
+
+### 🚀 Intermediate & Advanced Tracks (In Progress)
+*   📁 **[Day-15: The Coffee Machine](./Day-15)** — Procedural state machine logic.
+*   📁 **[Day-16: OOP Coffee Machine](./Day-16)** — Transitioning to Object-Oriented Programming modules.
+*   📁 `Day-17` onwards
+*   *Focus: Modular system design, class inheritance, encapsulation, and third-party API integration.*
 
 ---
 
 ## 🛠️ Environment Configuration
-*   **Runtime Environment**: Python 3.10+
-*   **Development Setup**: Keeping project modules structured independently within their corresponding day directories.
-
+*   **Language Runtime**: Python 3.10+
+*   **Workspace Layout**: All project components are isolated within their corresponding chronological day directories for clean version tracking.
