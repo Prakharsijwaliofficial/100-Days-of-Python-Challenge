@@ -1,0 +1,129 @@
+# Day 27 - Tkinter: GUI Applications with Tkinter
+
+## 📖 Overview
+
+Day 27 focuses on learning the fundamentals of **Tkinter**, Python's built-in GUI (Graphical User Interface) library. The projects and practice files demonstrate how to create windows, add widgets, handle user input, and respond to button clicks using event-driven programming.
+
+---
+
+## 📂 Project Structure
+
+```
+Day-27/
+│
+├── main.py
+├── other_tkinter_widgets.py
+├── playground.py
+└── README.md
+```
+
+### 📌 `main.py`
+
+The main project for Day 27.
+
+**Features**
+
+* Creates a GUI window using Tkinter.
+* Uses `Label`, `Entry`, and `Button` widgets.
+* Converts **Miles** to **Kilometers**.
+* Updates the result dynamically when the button is clicked.
+* Demonstrates callback functions and widget configuration.
+
+**Concepts Learned**
+
+* `Tk()`
+* `Label`
+* `Entry`
+* `Button`
+* `grid()` geometry manager
+* Event handling with `command`
+* `.get()`
+* `.config()`
+* `round()`
+
+---
+
+### 📌 `tkinter_widgets.py`
+
+A practice file containing examples of commonly used Tkinter widgets.
+
+**Widgets Covered**
+
+* Label
+* Button
+* Entry
+* Text
+* Spinbox
+* Scale
+* Checkbutton
+* Radiobutton
+* Listbox
+
+**Purpose**
+
+* Learn how each widget works.
+* Understand different widget methods.
+* Practice user interaction with GUI components.
+
+---
+
+### 📌 `playground.py`
+
+A sandbox file used for experimenting with Tkinter features.
+
+**Purpose**
+
+* Test new widgets and layouts.
+* Practice callback functions.
+* Experiment with different GUI designs before adding them to the main project.
+
+---
+
+## 🛠️ Skills Learned
+
+* Introduction to GUI Programming
+* Tkinter Basics
+* Event-Driven Programming
+* Callback Functions
+* Grid Layout System
+* User Input Handling
+* Widget Configuration
+* Python Functions with GUI
+
+---
+
+## 🚀 Technologies Used
+
+* Python 3
+* Tkinter (Built-in GUI Library)
+
+---
+
+## 📸 Final Project
+
+**Miles to Kilometer Converter**
+
+The application allows users to:
+
+1. Enter a distance in miles.
+2. Click the **Calculate** button.
+3. Instantly view the equivalent distance in kilometers.
+
+---
+
+## 🎯 Learning Outcome
+
+By the end of Day 27, I learned how to:
+
+* Build my first desktop GUI application.
+* Create and position widgets using the `grid()` layout.
+* Handle user input from `Entry` widgets.
+* Respond to button clicks using callback functions.
+* Dynamically update labels and other widgets.
+* Organize Tkinter applications into clean, readable code.
+
+---
+
+### Course
+
+**100 Days of Code: The Complete Python Pro Bootcamp** by **Angela Yu**
