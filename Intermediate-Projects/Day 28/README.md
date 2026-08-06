@@ -1,4 +1,4 @@
-**# 🍅 Day 28 - Pomodoro Timer | 100 Days of Python
+# 🍅 Day 28 - Pomodoro Timer | 100 Days of Python
 
 ## 📖 Overview
 
