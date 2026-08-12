@@ -34,8 +34,8 @@ def compose_email(name):
 
 
 def send_email(email, letter):
-    my_email = "prakharsijwaliofficial@gmail.com"
-    password = "rcoztdhkoxjcmkcd"
+    my_email = "your_email.com"
+    password = "password"
 
     with smtplib.SMTP("smtp.gmail.com", 587) as connection:
         connection.starttls()
